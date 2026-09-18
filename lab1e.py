@@ -17,5 +17,5 @@
 
 quantity = 1.23
 stock = 3.45
-print("    %s" %(quantity * stock))
-print("       %.2f" %(quantity * stock))
+print("The product is %4.2f" %(quantity * stock))
+print("The product is %7.2f" %(quantity * stock))

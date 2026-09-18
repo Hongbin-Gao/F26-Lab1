@@ -16,3 +16,4 @@
 import math
 radius = int(input("Enter the radius of the circle: "))
 area_of_circle = math.pi * radius ** 2
+print("Area of the circle is", area_of_circle)
