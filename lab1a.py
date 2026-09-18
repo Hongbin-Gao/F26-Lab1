@@ -2,7 +2,7 @@
 
 #!/usr/bin/env python3
 # Author: Hongbin
-# Date: 2026/09/17
+# Date: 2026/09/18
 # Purpose: Create a variable, check its type and print the variable.
 # Usage: python3 lab1a.py
 
