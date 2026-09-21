@@ -16,6 +16,6 @@
 # Then print the product of `quantity` and `stock` with 7 spaces before the answer and make sure the answer only goes to hundreadths (-.--) using the module % formatting.
 
 quantity = 1.23
-stock = 3.45
+stock = float(input(("Enter a decimal number: ")))
 print("The product is %4.2f" %(quantity * stock))
 print("The product is %7.2f" %(quantity * stock))
