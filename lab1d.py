@@ -29,8 +29,8 @@ print(words[0],words[16])
 #TO-DO 3:
 # Use negative indexing to return the words "jumps" and "quick" from "words" to the user.
 
-dic = words.split()
-print(dic[-5], dic[-8])
+list = words.split()
+print(list[-5], list[-8])
 
 #TO-DO 4:
 # Use slicing to retun everything between index 2-15 to the user.
